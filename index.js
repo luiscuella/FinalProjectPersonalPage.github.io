@@ -1,4 +1,4 @@
-var myImages =["pic21.JPG ","IMG_7299.JPG ","Speed_Validator.PNG "];
+var myImages =["pic21.JPG ","IMG_7299.JPG ","IMG_7318.JPG  "];
 
 
 
@@ -22,7 +22,7 @@ var myImages =["pic21.JPG ","IMG_7299.JPG ","Speed_Validator.PNG "];
 
 
 
-var captionImages =["Mom and Dad","Baby Bro Chris","SPEED"];
+var captionImages =["Mom and Dad","Baby Bro Chris","Baby Bro Allan"];
 
 
 
