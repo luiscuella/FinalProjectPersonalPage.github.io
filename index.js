@@ -1,4 +1,4 @@
-var myImages =["Html_Validator.PNG","CSS_Validator.PNG","Speed_Validator.PNG "];
+var myImages =["pic21.JPG ","CSS_Validator.PNG","Speed_Validator.PNG "];
 
 
 
@@ -22,7 +22,7 @@ var myImages =["Html_Validator.PNG","CSS_Validator.PNG","Speed_Validator.PNG "];
 
 
 
-var captionImages =["HTML","CSS","SPEED"];
+var captionImages =["Mom and Dad","CSS","SPEED"];
 
 
 
