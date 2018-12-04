@@ -1,13 +1,41 @@
 body{
-  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/music-staff_b1d89oyes__F0000.png')
-    
+
+
+
+  text-align:center;
+
+
+
+  background-color: olive; 
+
+
+
 }
 
-h1 {
-  text-align: center; 
-  color:blue
-}
 
-p{
-  color:pink;
+
+
+
+
+
+h1 { 
+
+
+
+  font-family: sans-serif; 
+
+
+
+  font-weight: normal; 
+
+
+
+  font-style: normal; 
+
+
+
+  font-size: 100px;
+
+
+
 }
